@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Chromatid Arm Separation: an ImageJ/Fiji macro for quantifying sister-chromatid arm separation on metaphase spreads"
+abstract: >-
+  An ImageJ/Fiji macro that measures the separation between sister-chromatid
+  arms on metaphase chromosome spreads. For a user-drawn line scan across a
+  chromosome arm, it fits two fixed-width Gaussians to the intensity profile
+  and reports the distance between their centres, together with fit-quality
+  metrics, as per-arm and per-image CSV tables.
+type: software
+authors:
+  - given-names: Isobel
+    family-names: Johns
+    email: isobeljohns@gmail.com
+    affiliation: "Netherlands Cancer Institute (NKI-AVL), Amsterdam, The Netherlands"
+    orcid: "https://orcid.org/0000-0002-3148-2183"
+version: "1.0.0"
+date-released: "2026-10-27"
+license: MIT
+repository-code: "https://github.com/IsobelJohns/chromatid-arm-separation"
+doi: "10.5281/zenodo.23703875"
+keywords:
+  - ImageJ
+  - Fiji
+  - chromosome spread
+  - sister chromatid cohesion
+  - metaphase
+  - image analysis
+  - Gaussian fitting
