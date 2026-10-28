@@ -1,7 +1,7 @@
 # Chromatid Arm Separation
 
 An ImageJ/Fiji macro for quantifying the separation between sister-chromatid
-arms on metaphase chromosome spreads.
+arms on chromosome spreads.
 
 For each line the user draws perpendicular to a chromosome arm, the macro reads
 the fluorescence intensity profile and fits **two Gaussians of a fixed,
