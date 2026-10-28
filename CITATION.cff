@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite both the software (this archived release) and the associated publication listed under 'references'."
-title: "Chromatid Arm Separation: an ImageJ/Fiji macro for quantifying sister-chromatid arm separation on metaphase spreads"
+title: "Chromatid Arm Separation: an ImageJ/Fiji macro for quantifying sister-chromatid arm separation on chromosome spreads"
 abstract: >-
   An ImageJ/Fiji macro that measures the separation between sister-chromatid
-  arms on metaphase chromosome spreads. For a user-drawn line scan across a
+  arms on chromosome spreads. For a user-drawn line scan across a
   chromosome arm, it fits two fixed-width Gaussians to the intensity profile
   and reports the distance between their centres, together with fit-quality
   metrics, as per-arm and per-image CSV tables.
