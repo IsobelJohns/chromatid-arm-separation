@@ -1,7 +1,7 @@
 // ============================================================================
 //  Chromatid Arm Separation — an ImageJ/Fiji macro
 // ============================================================================
-//  Measures the separation between sister-chromatid arms on metaphase
+//  Measures the separation between sister-chromatid arms on 
 //  chromosome spreads by fitting two fixed-width Gaussians to a perpendicular
 //  line-scan intensity profile and reporting the distance between their
 //  centres. Keyboard-driven, ROI-Manager based; exports per-arm and
