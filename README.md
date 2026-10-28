@@ -29,7 +29,7 @@ is degenerate on broad, flat-topped profiles and can diverge). See
 
 - **Fiji** (https://fiji.sc) or ImageJ ≥ 1.53. Developed and tested on Fiji
   (ImageJ 1.54), macOS. No external plugins are required.
-- Single-channel, 8- or 16-bit greyscale images of metaphase spreads.
+- Single-channel, 8- or 16-bit greyscale images of chromosome spreads.
 
 ---
 
