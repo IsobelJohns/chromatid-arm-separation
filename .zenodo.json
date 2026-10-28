@@ -1,7 +1,7 @@
 {
-  "title": "Chromatid Arm Separation: an ImageJ/Fiji macro for quantifying sister-chromatid arm separation on metaphase spreads",
+  "title": "Chromatid Arm Separation: an ImageJ/Fiji macro for quantifying sister-chromatid arm separation on chromosome spreads",
   "upload_type": "software",
-  "description": "An ImageJ/Fiji macro that measures the separation between sister-chromatid arms on metaphase chromosome spreads. For a user-drawn line scan across a chromosome arm, it fits two fixed-width Gaussians to the intensity profile and reports the distance between their centres, with fit-quality metrics, as per-arm and per-image CSV tables. Keyboard-driven, ROI-Manager based, no external plugins required.",
+  "description": "An ImageJ/Fiji macro that measures the separation between sister-chromatid arms on chromosome spreads. For a user-drawn line scan across a chromosome arm, it fits two fixed-width Gaussians to the intensity profile and reports the distance between their centres, with fit-quality metrics, as per-arm and per-image CSV tables. Keyboard-driven, ROI-Manager based, no external plugins required.",
   "creators": [
     {
       "name": "Johns, Isobel",
