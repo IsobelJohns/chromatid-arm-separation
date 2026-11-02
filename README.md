@@ -4,9 +4,9 @@ An ImageJ/Fiji macro for quantifying the separation between sister-chromatid
 arms on chromosome spreads.
 
 To take a measurement, the user draws a straight line **across the pair of
-sister chromatids** (perpendicular to the chromosome's long axis, at one arm).
+sister chromatids** (perpendicular to the chromosome's long axis).
 The macro reads the fluorescence intensity profile along that line and fits
-**two Gaussians of a fixed, data-estimated width** to it — one per chromatid.
+**two Gaussians of a fixed, data-estimated width** to it for each chromatid.
 The distance between the two fitted Gaussian centres is reported as the arm
 separation (`PeakToPeak`), in pixels. The macro is keyboard-driven, uses the
 ImageJ ROI Manager, and exports both a per-arm table and a one-row-per-image
@@ -62,7 +62,7 @@ To load it automatically on every start, paste the macro contents into
 
 **Typical install time:** under 1 minute.
 
-### Optional settings (you do not need to change these)
+### Optional settings
 
 The macro works out of the box with its defaults, so **most users can skip this
 section entirely.** There are two optional settings:
@@ -72,41 +72,18 @@ section entirely.** There are two optional settings:
 | `usePixels` | `true` | report distances in the image's calibrated unit instead of pixels (set `false`; requires a correct calibration in `Image ▸ Properties`). |
 | `armsPerImage` | `6` | expect a different number of measurements per image (default 6 = 3 chromosomes × 2 arms). This only drives the on-screen counter — you can always measure more or fewer. |
 
-These settings are lines of text near the top of the `.ijm` file itself. When
-you install the macro through `Plugins ▸ Macros ▸ Install…` you never see those
-lines, so to change a setting you must **edit the file first, then install the
-edited file:**
-
-1. **Open `ChromatidArmSeparation.ijm` in an editor.** The simplest way is to
-   drag the file onto the Fiji main window — it opens in Fiji's built-in
-   **Script Editor**. (Any plain-text editor also works: TextEdit on macOS,
-   Notepad on Windows, or a code editor such as VS Code.)
-2. **Find the two lines near the top** of the file:
-   ```
-   var usePixels = true;
-   var armsPerImage = 6;
-   ```
-3. **Change the value** you want — for example `var armsPerImage = 10;` to expect
-   five chromosomes per image, or `var usePixels = false;` for calibrated units.
-   Keep the `var`, the `=`, and the trailing semicolon exactly as shown.
-4. **Save** the file (in the Script Editor: `File ▸ Save`).
-5. **Install the edited file:** `Plugins ▸ Macros ▸ Install…` and select it. The
-   installed macro now uses your changed values for the rest of the session.
-
-(If you only want to try a changed setting once without installing, you can also
-press **Run** in the Script Editor — but the keyboard shortcuts described below
-are only active after you **Install**.)
+These settings can be edited directly in the `.ijm` file itself before install. 
 
 ## 3. Demo
 
 A worked example is in [`demo/`](demo/).
 
-- **Input:** [`demo/IJ_exp28_CTCFYxF_Rep2_A7-1_Example1_2.tif`](demo/) — one
+- **Input:** [`demo/example_chromosome_spread.tif`](demo/) — one
   chromosome spread (632 × 632, 16-bit).
 - **Instructions to run:** install the macro (step 2), open the demo image, and
-  measure the **three longest chromosomes** (both arms of each = 6 arms) exactly
-  as in *Instructions for use* below. Press **S** to process, then **E** to
-  export.
+  measure the **three longest chromosomes** (both the p and the q arms = 6 arm measurements per image) exactly
+  as in *Instructions for use* below. Press **t** to take each of the 6 measurements, **s** to process the measurements at the end, then **e** to
+  export after all images are processed.
 - **Expected output:** [`demo/expected_output.csv`](demo/) — six arms, each
   fitted by the Gaussian method with R² > 0.97 and a separation of roughly
   10–13 px. For reference, one run gave:
@@ -138,33 +115,31 @@ A worked example is in [`demo/`](demo/).
 
 **Choosing what to measure — for consistency:**
 - Measure the same set of chromosomes in every spread — e.g. the **three
-  longest** chromosomes (the default; raise `armsPerImage` if you want more).
-- Measure the **same portion of each arm** every time — e.g. about one-third of
-  the way in from the telomere end — so measurements are comparable across
-  images.
+  longest** chromosomes (see optional settings -> `armsPerImage` if you want more).
+- Measure the **same portion of each arm** every time so measurements are comparable across
+  images — e.g. about one-third of the way in from the telomere end.
 - Choose chromosomes that are well separated from their neighbours (see *Data
   selection* below).
 
 **Taking the measurements (per image):**
 1. Select the **straight-line** tool from the Fiji toolbar.
 2. Draw a line **across both sister chromatids** at the arm — perpendicular to
-   the arm's long axis, crossing the two chromatid bodies and extending just
-   into the background on either side. (Crossing both chromatids is essential:
-   it is what produces the two intensity peaks the macro fits.)
+   the arm's long axis, crossing both sister chromatids and extending just
+   into the background on either side. 
 3. Press **`t`** to add that line to the ROI Manager. *(This records the line —
    it does not yet measure it.)*
 4. Repeat steps 2–3 for every arm you want on this image (default 6 = three
    chromosomes × p- and q-arms; you may capture more).
-5. **Only once all arms for the image are recorded**, press **`S`** **once** to
+5. **Only once all arms for the image are recorded**, press **`s`** **once** to
    process them all. The results are added to the table.
 6. Open the next image and repeat from step 2.
-7. **At the very end, after all images are done, press `E` once** to export.
+7. **At the very end, after all images are done, press `e` once** to export.
 
-> **Workflow in short:** `t` after *each* line → `S` *once per image* → `E`
-> *once at the very end*. You do **not** press S or E after every single arm.
+> **Workflow in short:** `t` after *each* line → `s` *once per image* → `e`
+> *once at the very end*
 
-**Other keys:** `D` skip the current image · `R` clear the current lines ·
-`U` undo the last recorded arm (to redraw it) · `B` enlarge the Log font.
+**Other keys:** `d` skip the current image · `r` clear the current lines ·
+`u` undo the last recorded arm (to redraw it) · `b` enlarge the Log font.
 
 ### (Optional) Reproduction instructions
 
@@ -176,7 +151,7 @@ workflow to the imaging dataset referenced there.
 
 ## Outputs
 
-Pressing `E` writes two files to the chosen folder (auto-numbered `_2`, `_3`…
+Pressing `e` writes two files to the chosen folder (auto-numbered `_2`, `_3`…
 so nothing is overwritten):
 
 **1. `Chromatid_Separation_Results.csv`** — one row per measured arm:
@@ -215,16 +190,8 @@ defines where the chromatid signal begins and ends.
   space flanking the arm. If a chromosome is too crowded to have clear space on
   both sides, **pick a different, more isolated chromosome** rather than forcing
   the measurement.
-- Keep the line short — extend it just into the background on each side, no
-  further.
+- Keep the line short — extend it just into the background on each side.
 - Skip uniformly crowded spreads (`D`) rather than measuring them.
-
-**Contrast, not colour.** The background needs to *contrast* with the
-chromatids; it does not need to be dark. The macro reads the raw pixel values,
-in which the chromatids are the high-intensity signal, so it works whether the
-image is displayed as bright chromatids on a dark background **or** as dark
-chromatids on a light background (e.g. an inverting LUT, as in the demo image) —
-the display look-up table does not change the underlying measurement.
 
 ---
 
