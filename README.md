@@ -4,8 +4,8 @@ An ImageJ/Fiji macro for quantifying the separation between sister-chromatid
 arms on chromosome spreads.
 
 To take a measurement, the user draws a perpendicular straight line 
-**across a pair of sister chromatids**. The macro reads the fluorescence 
-intensity profile along that line and fits **one Gaussian of a fixed, 
+**across the pair of sister chromatids**. The macro reads the fluorescence 
+intensity profile along that line and fits **a Gaussian of a fixed, 
 data-estimated width** for each chromatid. The distance between the two fitted 
 Gaussian centres is reported as the arm separation (`PeakToPeak`), in pixels. 
 The macro is keyboard-driven, uses the ImageJ ROI Manager, and exports both a 
