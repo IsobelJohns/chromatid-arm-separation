@@ -111,11 +111,17 @@ A worked example is in [`demo/`](demo/).
 - **Expected run time:** pressing **S** processes all six arms of the image in
   under 1 second on a normal desktop.
 
+  ### (Optional) Reproduction instructions
+
+The `demo/` example lets you reproduce a representative set of measurements. The
+full analysis for the associated manuscript is reproduced by applying this
+workflow to the imaging dataset referenced there.
+
 ## 4. Instructions for use (how to run on your own data)
 
 **Choosing what to measure — for consistency:**
 - Measure the same set of chromosomes in every spread — e.g. the **three
-  longest** chromosomes (see optional settings -> `armsPerImage` if you want more).
+  longest** chromosomes.
 - Measure the **same portion of each arm** every time so measurements are comparable across
   images — e.g. about one-third of the way in from the telomere end.
 - Choose chromosomes that are well separated from their neighbours (see *Data
@@ -140,12 +146,6 @@ A worked example is in [`demo/`](demo/).
 
 **Other keys:** `d` skip the current image · `r` clear the current lines ·
 `u` undo the last recorded arm (to redraw it) · `b` enlarge the Log font.
-
-### (Optional) Reproduction instructions
-
-The `demo/` example lets you reproduce a representative set of measurements. The
-full analysis for the associated manuscript is reproduced by applying this
-workflow to the imaging dataset referenced there.
 
 ---
 
@@ -191,7 +191,7 @@ defines where the chromatid signal begins and ends.
   both sides, **pick a different, more isolated chromosome** rather than forcing
   the measurement.
 - Keep the line short — extend it just into the background on each side.
-- Skip uniformly crowded spreads (`D`) rather than measuring them.
+- Skip uniformly crowded spreads (`d`) rather than measuring them.
 
 ---
 
