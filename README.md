@@ -53,7 +53,7 @@ current Fiji session.
 1. Open Fiji.
 2. `Plugins ▸ Macros ▸ Install…`
 3. Select `ChromatidArmSeparation.ijm`.
-4. The shortcuts (s, e, d, r, u, b; plus Fiji's built-in t) are now active. An
+4. The shortcuts (`s`, `e`, `d`, `r`, `u`, `b`; plus Fiji's built-in t) are now active. An
    image window must be the focused window for them to fire.
 
 To load it automatically on every start, paste the macro contents into
@@ -81,7 +81,7 @@ A worked example is in [`demo/`](demo/).
   chromosome spread (632 × 632, 16-bit).
 - **Instructions to run:** install the macro (step 2), open the demo image, and
   measure the **three longest chromosomes** (both the p and the q arms = 6 arm measurements per image) exactly
-  as in *Instructions for use* below. Press **t** to take each of the 6 measurements, **s** to process the measurements at the end, then **e** to
+  as in *Instructions for use* below. Press **`t`** to take each of the 6 measurements, **`s`** to process the measurements at the end, then **`e`** to
   export after all images are processed.
 - **Expected output:** [`demo/expected_output.csv`](demo/) — six arms, each
   fitted by the Gaussian method with R² > 0.97 and a separation of roughly
