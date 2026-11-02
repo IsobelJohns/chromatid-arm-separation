@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 683.99 468">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <clipPath id="clippath">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-24">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-25">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-26">
+      <rect x="44.28" y="26.76" width="632.52" height="391.08" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="figure_1">
+    <g id="patch_1">
+      <path d="M0,461.45h683.99V-6.55H0v468Z" fill="#fff"/>
+    </g>
+    <g id="axes_1">
+      <path d="M39.8,418.23h632.52V27.15H39.8v391.08Z" fill="#fff"/>
+      <g id="matplotlib.axis_1">
+        <g id="xtick_1">
+          <g id="line2d_1">
+            <g clip-path="url(#clippath)">
+              <path d="M44.28,417.84V26.76" fill="none" stroke="#eee" stroke-linecap="square" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="line2d_2">
+            <path id="mb46978ab40" d="M44.28,417.84v3.5" stroke="#000" stroke-linejoin="round" stroke-width=".8"/>
+          </g>
+          <g id="text_1">
+            <text transform="translate(41.12 434.52)" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">0</tspan></text>
+          </g>
+        </g>
+        <g id="xtick_2">
+          <g id="line2d_3">
+            <g clip-path="url(#clippath-1)">
+              <path d="M176.05,417.84V26.76" fill="none" stroke="#eee" stroke-linecap="square" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="line2d_4">
+            <path id="mb46978ab401" data-name="mb46978ab40" d="M176.05,417.84v3.5" stroke="#000" stroke-linejoin="round" stroke-width=".8"/>
+          </g>
+          <g id="text_2">
+            <text transform="translate(169.73 434.52)" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">10</tspan></text>
+          </g>
+        </g>
+        <g id="xtick_3">
+          <g id="line2d_5">
+            <g clip-path="url(#clippath-2)">
+              <path d="M307.83,417.84V26.76" fill="none" stroke="#eee" stroke-linecap="square" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="line2d_6">
+            <path id="mb46978ab402" data-name="mb46978ab40" d="M307.83,417.84v3.5" stroke="#000" stroke-linejoin="round" stroke-width=".8"/>
+          </g>
+          <g id="text_3">
+            <text transform="translate(301.5 434.52)" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">20</tspan></text>
+          </g>
+        </g>
+        <g id="xtick_4">
+          <g id="line2d_7">
+            <g clip-path="url(#clippath-3)">
+              <path d="M439.6,417.84V26.76" fill="none" stroke="#eee" stroke-linecap="square" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="line2d_8">
+            <path id="mb46978ab403" data-name="mb46978ab40" d="M439.6,417.84v3.5" stroke="#000" stroke-linejoin="round" stroke-width=".8"/>
+          </g>
+          <g id="text_4">
+            <text transform="translate(433.28 434.52)" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">30</tspan></text>
+          </g>
+        </g>
+        <g id="xtick_5">
+          <g id="line2d_9">
+            <g clip-path="url(#clippath-4)">
+              <path d="M571.38,417.84V26.76" fill="none" stroke="#eee" stroke-linecap="square" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="line2d_10">
+            <path id="mb46978ab404" data-name="mb46978ab40" d="M571.38,417.84v3.5" stroke="#000" stroke-linejoin="round" stroke-width=".8"/>
+          </g>
+          <g id="text_5">
+            <text transform="translate(565.05 434.52)" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">40</tspan></text>
+          </g>
+        </g>
+        <g id="text_6">
+          <text transform="translate(278.17 451.59)" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="11" isolation="isolate"><tspan x="0" y="0">Distance along the line (pixels)</tspan></text>
+        </g>
+      </g>
+      <g id="matplotlib.axis_2">
+        <g id="ytick_1">
+          <g id="line2d_11">
+            <g clip-path="url(#clippath-5)">
+              <path d="M44.28,374.66h632.52" fill="none" stroke="#eee" stroke-linecap="square" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="line2d_12">
+            <path id="md6ff1fe1f7" d="M44.28,374.66h-3.5" stroke="#000" stroke-linejoin="round" stroke-width=".8"/>
+          </g>
+          <g id="text_7">
+            <text transform="translate(30.96 379.5)" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">0</tspan></text>
+          </g>
+        </g>
+        <g id="ytick_2">
+          <g id="line2d_13">
+            <g clip-path="url(#clippath-6)">
+              <path d="M44.28,323.86h632.52" fill="none" stroke="#eee" stroke-linecap="square" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="line2d_14">
+            <path id="md6ff1fe1f71" data-name="md6ff1fe1f7" d="M44.28,323.86h-3.5" stroke="#000" stroke-linejoin="round" stroke-width=".8"/>
+          </g>
+          <g id="text_8">
+            <text transform="translate(24.63 328.7)" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">10</tspan></text>
+          </g>
+        </g>
+        <g id="ytick_3">
+          <g id="line2d_15">
+            <g clip-path="url(#clippath-7)">
+              <path d="M44.28,273.06h632.52" fill="none" stroke="#eee" stroke-linecap="square" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="line2d_16">
+            <path id="md6ff1fe1f72" data-name="md6ff1fe1f7" d="M44.28,273.06h-3.5" stroke="#000" stroke-linejoin="round" stroke-width=".8"/>
+          </g>
+          <g id="text_9">
+            <text transform="translate(24.63 277.91)" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">20</tspan></text>
+          </g>
+        </g>
+        <g id="ytick_4">
+          <g id="line2d_17">
+            <g clip-path="url(#clippath-8)">
+              <path d="M44.28,222.26h632.52" fill="none" stroke="#eee" stroke-linecap="square" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="line2d_18">
+            <path id="md6ff1fe1f73" data-name="md6ff1fe1f7" d="M44.28,222.26h-3.5" stroke="#000" stroke-linejoin="round" stroke-width=".8"/>
+          </g>
+          <g id="text_10">
+            <text transform="translate(24.63 227.11)" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">30</tspan></text>
+          </g>
+        </g>
+        <g id="ytick_5">
+          <g id="line2d_19">
+            <g clip-path="url(#clippath-9)">
+              <path d="M44.28,171.47h632.52" fill="none" stroke="#eee" stroke-linecap="square" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="line2d_20">
+            <path id="md6ff1fe1f74" data-name="md6ff1fe1f7" d="M44.28,171.47h-3.5" stroke="#000" stroke-linejoin="round" stroke-width=".8"/>
+          </g>
+          <g id="text_11">
+            <text transform="translate(24.63 176.31)" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">40</tspan></text>
+          </g>
+        </g>
+        <g id="ytick_6">
+          <g id="line2d_21">
+            <g clip-path="url(#clippath-10)">
+              <path d="M44.28,120.67h632.52" fill="none" stroke="#eee" stroke-linecap="square" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="line2d_22">
+            <path id="md6ff1fe1f75" data-name="md6ff1fe1f7" d="M44.28,120.67h-3.5" stroke="#000" stroke-linejoin="round" stroke-width=".8"/>
+          </g>
+          <g id="text_12">
+            <text transform="translate(24.63 125.51)" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">50</tspan></text>
+          </g>
+        </g>
+        <g id="ytick_7">
+          <g id="line2d_23">
+            <g clip-path="url(#clippath-11)">
+              <path d="M44.28,69.87h632.52" fill="none" stroke="#eee" stroke-linecap="square" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="line2d_24">
+            <path id="md6ff1fe1f76" data-name="md6ff1fe1f7" d="M44.28,69.87h-3.5" stroke="#000" stroke-linejoin="round" stroke-width=".8"/>
+          </g>
+          <g id="text_13">
+            <text transform="translate(24.63 74.71)" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">60</tspan></text>
+          </g>
+        </g>
+        <g id="text_14">
+          <text transform="translate(17.86 314.12) rotate(-90)" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="11" isolation="isolate"><tspan x="0" y="0">Fluorescence intensity (gray value)</tspan></text>
+        </g>
+      </g>
+      <g id="LineCollection_1">
+        <g clip-path="url(#clippath-12)">
+          <path d="M281.47,374.66V97.53" fill="none" stroke="#534ab7" stroke-dasharray=".7 1.15" stroke-linejoin="round" stroke-width=".7"/>
+        </g>
+      </g>
+      <g id="LineCollection_2">
+        <g clip-path="url(#clippath-13)">
+          <path d="M439.6,374.66V87.48" fill="none" stroke="#534ab7" stroke-dasharray=".7 1.15" stroke-linejoin="round" stroke-width=".7"/>
+        </g>
+      </g>
+      <g id="line2d_25">
+        <g clip-path="url(#clippath-14)">
+          <path d="M44.28,344.18h632.52" fill="none" stroke="#aaa" stroke-dasharray="5.12 1.28 .8 1.28" stroke-linejoin="round" stroke-width=".8"/>
+        </g>
+      </g>
+      <g id="patch_3">
+        <g clip-path="url(#clippath-15)">
+          <path d="M442.94,190.13h46.03" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+        </g>
+        <g clip-path="url(#clippath-16)">
+          <path d="M446.54,191.93l-3.6-1.8,3.6-1.8" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+        </g>
+        <g clip-path="url(#clippath-17)">
+          <path d="M485.37,188.33l3.6,1.8-3.6,1.8" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+        </g>
+      </g>
+      <g id="line2d_26">
+        <g clip-path="url(#clippath-18)">
+          <path d="M44.28,344.17l34.39-.14,14.48-.26,9.95-.38,8.14-.53,6.33-.61,5.43-.72,5.43-.95,4.52-1,4.52-1.24,3.62-1.19,3.62-1.39,3.62-1.62,3.62-1.87,3.62-2.16,3.62-2.47,3.62-2.81,3.62-3.18,2.71-2.65,2.71-2.88,2.71-3.13,2.71-3.39,3.62-4.93,3.62-5.43,3.62-5.93,3.62-6.44,3.62-6.95,3.62-7.46,3.62-7.95,3.62-8.41,4.52-11.11,4.52-11.69,5.43-14.64,8.14-22.68,9.05-25.12,5.43-14.4,4.52-11.29,3.62-8.41,3.62-7.75,2.71-5.32,2.71-4.85,2.71-4.35,2.71-3.81,1.81-2.23,1.81-1.97,1.81-1.71,1.81-1.43,1.81-1.16,1.81-.88,1.81-.59,1.81-.31,1.81-.02,1.81.27,1.81.56,1.81.84,1.81,1.12,1.81,1.4,1.81,1.67,1.81,1.94,1.81,2.2,1.81,2.45,2.71,4.13,2.71,4.65,2.71,5.13,2.71,5.57,3.62,8.05,3.62,8.67,4.52,11.54,5.43,14.61,8.14,22.7,9.05,25.1,5.43,14.47,4.52,11.5,4.52,10.89,3.62,8.21,3.62,7.73,3.62,7.24,3.62,6.73,3.62,6.22,3.62,5.71,3.62,5.21,3.62,4.72,3.62,4.26,3.62,3.82,3.62,3.4,3.62,3.02,3.62,2.66,3.62,2.33,3.62,2.03,3.62,1.76,3.62,1.52,3.62,1.3,4.52,1.36,4.52,1.1,4.52.89,5.43.83,6.33.72,7.24.57,8.14.41,10.86.31,15.38.19,28.05.08h147.5s10.86,0,10.86,0h0" fill="none" stroke="#1d9e75" stroke-dasharray="5.92 2.56" stroke-linejoin="round" stroke-width="1.6"/>
+        </g>
+      </g>
+      <g id="line2d_27">
+        <g clip-path="url(#clippath-19)">
+          <path d="M44.28,344.18l187.31-.11,16.29-.23,10.86-.36,8.14-.48,7.24-.66,5.43-.69,5.43-.91,4.52-.97,4.52-1.2,3.62-1.15,3.62-1.35,3.62-1.58,3.62-1.83,3.62-2.11,3.62-2.43,3.62-2.77,2.71-2.32,2.71-2.54,2.71-2.78,2.71-3.02,2.71-3.28,2.71-3.55,3.62-5.17,3.62-5.68,3.62-6.21,3.62-6.74,3.62-7.28,3.62-7.8,3.62-8.31,3.62-8.79,4.52-11.61,4.52-12.21,5.43-15.27,9.05-26.29,8.14-23.5,5.43-14.96,4.52-11.72,3.62-8.72,3.62-8.03,2.71-5.5,2.71-5.01,2.71-4.49,2.71-3.92,1.81-2.29,1.81-2.02,1.81-1.74,1.81-1.46,1.81-1.17,1.81-.87,1.81-.58,1.81-.28,1.81.02,1.81.32,1.81.62,1.81.91,1.81,1.2,1.81,1.49,1.81,1.78,1.81,2.05,1.81,2.32,1.81,2.58,2.71,4.35,2.71,4.88,2.71,5.38,2.71,5.84,3.62,8.43,3.62,9.07,4.52,12.06,5.43,15.24,9.05,26.3,8.14,23.49,5.43,15.04,4.52,11.95,4.52,11.31,3.62,8.52,3.62,8.03,3.62,7.51,3.62,6.98,3.62,6.44,3.62,5.91,3.62,5.39,3.62,4.89,3.62,4.41,3.62,3.95,3.62,3.52,3.62,3.12,3.62,2.75,3.62,2.41,3.62,2.1,3.62,1.82,3.62,1.56,3.62,1.34,4.52,1.4,4.52,1.14,4.52.92,5.43.86,6.33.74,7.24.59,8.14.43,10.86.32,15.38.2,27.15.09h.9" fill="none" stroke="#ba7517" stroke-dasharray="5.92 2.56" stroke-linejoin="round" stroke-width="1.6"/>
+        </g>
+      </g>
+      <g id="patch_4">
+        <path d="M44.28,417.84V26.76" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".8"/>
+      </g>
+      <g id="patch_5">
+        <path d="M44.28,417.84h632.52" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".8"/>
+      </g>
+      <g id="line2d_28">
+        <g clip-path="url(#clippath-20)">
+          <path d="M44.28,340.14l13.18-.06,13.18,3.81,13.18,2.9,13.18,2.74,13.18-5.06,13.18-1.8,13.18,1.95,13.18-5.2,13.18-21.24,13.18-9.02,13.18-14.22,13.18-29.08,13.18-39.62,13.18-35.3,13.18-35.6,13.18-25.49,13.18-23.21,13.18-11.46,13.18,12.67,13.18,9.24,13.18,25.83,13.18,13.96,13.18,26.47,13.18-3.18,13.18-9.92,13.18-9.55,13.18-32.89,13.18-23.43,13.18-5.6,13.18-14.06,13.18,18.61,13.18,16.1,13.18,33.62,13.18,40.89,13.18,36.21,13.18,27.49,13.18,34,13.18,22.77,13.18,6.91,13.18,12.35,13.18.74,13.18,10.41,13.18.42,13.18-5.6,13.18,4.2,13.18.15,13.18,3.62,13.18,2.95" fill="none" stroke="#5f5e5a" stroke-linecap="square" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="text_15">
+        <text transform="translate(615.72 334.21)" fill="#8a877e" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="9.5" isolation="isolate"><tspan x="0" y="0">background</tspan></text>
+      </g>
+      <g id="text_16">
+        <g isolation="isolate">
+          <text transform="translate(462.12 178.67)" fill="#444" font-family="ArialMT, Arial" font-size="12" isolation="isolate"><tspan x="0" y="0">σ</tspan></text>
+        </g>
+      </g>
+      <g id="patch_6">
+        <path d="M130.95,94.97c30.92,29.73,61.55,59.18,91.88,88.35" fill="none" stroke="#5f5e5a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+        <path d="M221.26,178.89l1.57,4.42-4.48-1.4" fill="none" stroke="#5f5e5a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+      </g>
+      <g id="patch_61" data-name="patch_6">
+        <path d="M168.97,248.66c52.7-16.44,104.9-32.72,156.59-48.84" fill="none" stroke="#1d9e75" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+      </g>
+      <g id="text_17">
+        <text transform="translate(60.09 77.5)" fill="#5f5e5a" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10.5" isolation="isolate"><tspan x="0" y="0">measured intensity</tspan></text>
+        <text transform="translate(60.09 90.21)" fill="#5f5e5a" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10.5" isolation="isolate"><tspan x="0" y="0">(line-scan data)</tspan></text>
+      </g>
+      <g id="patch_7">
+        <path d="M322.07,198.91l4.69.28-3.04,3.58" fill="none" stroke="#1d9e75" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+      </g>
+      <g id="text_18">
+        <text transform="translate(53.28 254.11)" fill="#1d9e75" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10.5" isolation="isolate"><tspan x="0" y="0">each sister chromatid</tspan></text>
+        <text transform="translate(53.28 266.82)" fill="#1d9e75" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10.5" isolation="isolate"><tspan x="0" y="0">= one bell curve (Gaussian)</tspan></text>
+      </g>
+      <g id="patch_8">
+        <path d="M536.36,95.21c-19.86,12.18-39.37,24.15-58.53,35.9" fill="none" stroke="#534ab7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+        <path d="M482.51,130.7l-4.68.41,2.48-3.99" fill="none" stroke="#534ab7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+      </g>
+      <g id="text_19">
+        <text transform="translate(494.95 77.5)" fill="#534ab7" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10.5" isolation="isolate"><tspan x="0" y="0">fitted model =</tspan></text>
+        <text transform="translate(494.95 90.21)" fill="#534ab7" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="10.5" isolation="isolate"><tspan x="0" y="0">sum of the two curves</tspan></text>
+      </g>
+      <g id="text_20">
+        <text transform="translate(145.01 16.8)" font-family="LucidaGrande, &apos;Lucida Grande&apos;" font-size="12.5" isolation="isolate"><tspan x="0" y="0">Measuring arm separation: two Gaussians fitted to the intensity profile</tspan></text>
+      </g>
+      <g id="line2d_29">
+        <g clip-path="url(#clippath-21)">
+          <path d="M44.28,344.17l34.39-.14,14.48-.26,9.95-.38,8.14-.53,6.33-.61,5.43-.72,5.43-.95,4.52-1,4.52-1.24,3.62-1.19,3.62-1.39,3.62-1.62,3.62-1.87,3.62-2.16,3.62-2.47,3.62-2.81,3.62-3.18,2.71-2.65,2.71-2.88,2.71-3.13,2.71-3.39,3.62-4.93,3.62-5.43,3.62-5.93,3.62-6.44,3.62-6.95,3.62-7.46,3.62-7.95,3.62-8.41,4.52-11.12,4.52-11.7,5.43-14.66,8.14-22.72,9.95-27.66,5.43-14.35,4.52-11.23,3.62-8.36,3.62-7.7,2.71-5.28,2.71-4.82,2.71-4.33,2.71-3.81,1.81-2.24,1.81-1.99,1.81-1.74,1.81-1.48,1.81-1.22,1.81-.96,1.81-.7,1.81-.44,1.81-.18,1.81.08,1.81.34,1.81.59,1.81.83,1.81,1.07,1.81,1.3,1.81,1.52,1.81,1.72,2.71,2.96,2.71,3.36,2.71,3.72,3.62,5.44,3.62,5.87,5.43,9.31,9.95,17.26,3.62,5.89,3.62,5.47,2.71,3.76,2.71,3.42,2.71,3.03,2.71,2.6,1.81,1.48,1.81,1.27,1.81,1.05,1.81.83,1.81.6,1.81.36,1.81.13,1.81-.11,1.81-.35,1.81-.59,1.81-.82,1.81-1.05,1.81-1.28,1.81-1.5,1.81-1.71,2.71-2.95,2.71-3.38,2.71-3.77,2.71-4.13,3.62-5.97,3.62-6.39,5.43-10.1,9.95-18.68,3.62-6.39,3.62-5.95,2.71-4.1,2.71-3.73,2.71-3.31,2.71-2.85,1.81-1.62,1.81-1.39,1.81-1.15,1.81-.9,1.81-.64,1.81-.38,1.81-.11,1.81.16,1.81.43,1.81.71,1.81.98,1.81,1.26,1.81,1.53,1.81,1.8,1.81,2.06,1.81,2.32,2.71,3.96,2.71,4.5,2.71,5.01,2.71,5.49,2.71,5.94,3.62,8.54,3.62,9.15,4.52,12.14,5.43,15.31,9.05,26.37,8.14,23.52,5.43,15.05,4.52,11.96,4.52,11.31,3.62,8.53,3.62,8.03,3.62,7.51,3.62,6.98,3.62,6.44,3.62,5.91,3.62,5.39,3.62,4.89,3.62,4.41,3.62,3.95,3.62,3.52,3.62,3.12,3.62,2.75,3.62,2.41,3.62,2.1,3.62,1.82,3.62,1.56,3.62,1.34,4.52,1.4,4.52,1.14,4.52.92,5.43.86,6.33.74,7.24.59,8.14.43,10.86.32,15.38.2,27.15.09h.9" fill="none" stroke="#534ab7" stroke-linecap="square" stroke-linejoin="round" stroke-width="2.6"/>
+        </g>
+      </g>
+      <g id="line2d_30">
+        <g clip-path="url(#clippath-22)">
+          <path id="m72a150b368" d="M281.47,100.53c.8,0,1.56-.32,2.12-.88.56-.56.88-1.33.88-2.12s-.32-1.56-.88-2.12c-.56-.56-1.33-.88-2.12-.88s-1.56.32-2.12.88c-.56.56-.88,1.33-.88,2.12s.32,1.56.88,2.12c.56.56,1.33.88,2.12.88Z" fill="#534ab7" stroke="#534ab7" stroke-linejoin="round"/>
+        </g>
+      </g>
+      <g id="line2d_31">
+        <g clip-path="url(#clippath-23)">
+          <path id="m72a150b3681" data-name="m72a150b368" d="M439.6,90.48c.8,0,1.56-.32,2.12-.88.56-.56.88-1.33.88-2.12s-.32-1.56-.88-2.12c-.56-.56-1.33-.88-2.12-.88s-1.56.32-2.12.88c-.56.56-.88,1.33-.88,2.12s.32,1.56.88,2.12c.56.56,1.33.88,2.12.88Z" fill="#534ab7" stroke="#534ab7" stroke-linejoin="round"/>
+        </g>
+      </g>
+      <g id="text_21">
+        <g isolation="isolate">
+          <text transform="translate(273.7 385.87)" fill="#534ab7" font-family="ArialMT, Arial" font-size="14" isolation="isolate"><tspan x="0" y="0">μ</tspan></text>
+          <text transform="translate(281.77 385.87)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(282.61 387.97)" fill="#534ab7" font-family="ArialMT, Arial" font-size="9.8" isolation="isolate"><tspan x="0" y="0">1</tspan></text>
+        </g>
+      </g>
+      <g id="text_22">
+        <g isolation="isolate">
+          <text transform="translate(431.83 385.87)" fill="#534ab7" font-family="ArialMT, Arial" font-size="14" isolation="isolate"><tspan x="0" y="0">μ</tspan></text>
+          <text transform="translate(439.9 385.87)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(440.74 387.97)" fill="#534ab7" font-family="ArialMT, Arial" font-size="9.8" isolation="isolate"><tspan x="0" y="0">2</tspan></text>
+        </g>
+      </g>
+      <g id="patch_9">
+        <g clip-path="url(#clippath-24)">
+          <path d="M285.26,397.52h150.55" fill="none" stroke="#534ab7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+        </g>
+        <g clip-path="url(#clippath-25)">
+          <path d="M290.86,400.32l-5.6-2.8,5.6-2.8" fill="none" stroke="#534ab7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+        </g>
+        <g clip-path="url(#clippath-26)">
+          <path d="M430.22,394.72l5.6,2.8-5.6,2.8" fill="none" stroke="#534ab7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+        </g>
+      </g>
+      <g id="text_23">
+        <g isolation="isolate">
+          <text transform="translate(292.5 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0">a</tspan></text>
+          <text transform="translate(298.62 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(298.89 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0">r</tspan></text>
+          <text transform="translate(303.17 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(303.37 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0">m</tspan></text>
+          <text transform="translate(313.15 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(313.41 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(316.46 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(316.01 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0">s</tspan></text>
+          <text transform="translate(322.13 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(322.17 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0">e</tspan></text>
+          <text transform="translate(328.29 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(328.72 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0">p</tspan></text>
+          <text transform="translate(335.44 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(335.66 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0">a</tspan></text>
+          <text transform="translate(341.78 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(342.04 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0">r</tspan></text>
+          <text transform="translate(346.33 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(346.52 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0">a</tspan></text>
+          <text transform="translate(352.64 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(352.91 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0">t</tspan></text>
+          <text transform="translate(356.57 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(356.94 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0">i</tspan></text>
+          <text transform="translate(360 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(359.92 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0">o</tspan></text>
+          <text transform="translate(366.64 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(366.67 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0">n</tspan></text>
+          <text transform="translate(373.39 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(373.51 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(376.57 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(376.12 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(379.18 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(378.72 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0">=</tspan></text>
+          <text transform="translate(385.15 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(386.19 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(389.25 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(388.79 411.5)" fill="#534ab7" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(391.85 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(391.4 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="11" isolation="isolate"><tspan x="0" y="0">μ</tspan></text>
+          <text transform="translate(397.74 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(417.1 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="11" isolation="isolate"><tspan x="0" y="0">μ</tspan></text>
+          <text transform="translate(423.44 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(398.4 413.15)" fill="#534ab7" font-family="ArialMT, Arial" font-size="7.7" isolation="isolate"><tspan x="0" y="0">2</tspan></text>
+          <text transform="translate(402.68 413.15)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(424.1 413.15)" fill="#534ab7" font-family="ArialMT, Arial" font-size="7.7" isolation="isolate"><tspan x="0" y="0">1</tspan></text>
+          <text transform="translate(428.38 413.15)" fill="#534ab7" font-family="ArialMT, Arial" font-size="12"><tspan x="0" y="0"> </tspan></text>
+          <text transform="translate(405.74 411.5)" fill="#534ab7" font-family="ArialMT, Arial" font-size="11" isolation="isolate"><tspan x="0" y="0">−</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

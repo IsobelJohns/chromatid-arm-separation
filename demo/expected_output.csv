@@ -1,7 +1,7 @@
 Image_number,Image_name,Chromosome,Arm,Method,PeakToPeak_pixels,R_squared,Sep_over_sigma,Envelope_FWHM_pixels
-1,IJ_exp28_CTCFYxF_Rep2~A.7-1_Example1_2.tif,Chr1,p-arm,gaussian,12.642,0.994,2.865,24.095
-1,IJ_exp28_CTCFYxF_Rep2~A.7-1_Example1_2.tif,Chr1,q-arm,gaussian,11.009,0.984,2.227,21.214
-1,IJ_exp28_CTCFYxF_Rep2~A.7-1_Example1_2.tif,Chr2,p-arm,gaussian,10.079,0.994,2.604,20.836
-1,IJ_exp28_CTCFYxF_Rep2~A.7-1_Example1_2.tif,Chr2,q-arm,gaussian,11.256,0.975,2.268,22.417
-1,IJ_exp28_CTCFYxF_Rep2~A.7-1_Example1_2.tif,Chr3,p-arm,gaussian,11.109,0.993,2.488,22.568
-1,IJ_exp28_CTCFYxF_Rep2~A.7-1_Example1_2.tif,Chr3,q-arm,gaussian,10.308,0.993,2.679,21.154
+1,example_chromosome_spread.tif,Chr1,p-arm,gaussian,12.642,0.994,2.865,24.095
+1,example_chromosome_spread.tif,Chr1,q-arm,gaussian,11.009,0.984,2.227,21.214
+1,example_chromosome_spread.tif,Chr2,p-arm,gaussian,10.079,0.994,2.604,20.836
+1,example_chromosome_spread.tif,Chr2,q-arm,gaussian,11.256,0.975,2.268,22.417
+1,example_chromosome_spread.tif,Chr3,p-arm,gaussian,11.109,0.993,2.488,22.568
+1,example_chromosome_spread.tif,Chr3,q-arm,gaussian,10.308,0.993,2.679,21.154

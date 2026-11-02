@@ -54,7 +54,7 @@ current Fiji session.
 1. Open Fiji.
 2. `Plugins ▸ Macros ▸ Install…`
 3. Select `ChromatidArmSeparation.ijm`.
-4. The shortcuts (S, E, D, R, U, B; plus Fiji's built-in T) are now active. An
+4. The shortcuts (s, e, d, r, u, b; plus Fiji's built-in t) are now active. An
    image window must be the focused window for them to fire.
 
 To load it automatically on every start, paste the macro contents into
@@ -72,7 +72,7 @@ section entirely.** There are two optional settings:
 | `usePixels` | `true` | report distances in the image's calibrated unit instead of pixels (set `false`; requires a correct calibration in `Image ▸ Properties`). |
 | `armsPerImage` | `6` | expect a different number of measurements per image (default 6 = 3 chromosomes × 2 arms). This only drives the on-screen counter — you can always measure more or fewer. |
 
-These settings can be edited directly in the `.ijm` file itself before install. 
+These settings can be edited directly in the `.ijm` file itself before install.
 
 ## 3. Demo
 
@@ -108,14 +108,8 @@ A worked example is in [`demo/`](demo/).
   fitted **10.31 px**. The fit is slightly larger, as expected: overlapping
   Gaussian tails pull the *visible* peaks inward, so the fit recovers the true,
   slightly wider centre-to-centre separation.
-- **Expected run time:** pressing **S** processes all six arms of the image in
+- **Expected run time:** pressing **s** processes all six arms of the image in
   under 1 second on a normal desktop.
-
-  ### (Optional) Reproduction instructions
-
-The `demo/` example lets you reproduce a representative set of measurements. The
-full analysis for the associated manuscript is reproduced by applying this
-workflow to the imaging dataset referenced there.
 
 ## 4. Instructions for use (how to run on your own data)
 
@@ -131,7 +125,7 @@ workflow to the imaging dataset referenced there.
 1. Select the **straight-line** tool from the Fiji toolbar.
 2. Draw a line **across both sister chromatids** at the arm — perpendicular to
    the arm's long axis, crossing both sister chromatids and extending just
-   into the background on either side. 
+   into the background on either side.
 3. Press **`t`** to add that line to the ROI Manager. *(This records the line —
    it does not yet measure it.)*
 4. Repeat steps 2–3 for every arm you want on this image (default 6 = three
@@ -146,6 +140,21 @@ workflow to the imaging dataset referenced there.
 
 **Other keys:** `d` skip the current image · `r` clear the current lines ·
 `u` undo the last recorded arm (to redraw it) · `b` enlarge the Log font.
+
+### Shortcut key reference
+
+All keyboard shortcuts (the image window must be the focused window for them to
+fire):
+
+| Key | Action |
+|---|---|
+| `t` | Add the current line to the ROI Manager (ImageJ built-in). Press after drawing **each** line. |
+| `s` | Process all recorded lines on the current image and log the results. Press **once per image**, after all lines are drawn. |
+| `e` | Export results to CSV — writes two files (per-arm and per-image). Press **once**, after all images are done. |
+| `d` | Skip the current image (logs a `skipped` row and advances the image number). |
+| `r` | Clear all recorded lines from the current image (start the image over). |
+| `u` | Undo the most recently recorded arm, to redraw and re-measure it. |
+| `b` | Enlarge the Log window font (optional, for readability). |
 
 ---
 

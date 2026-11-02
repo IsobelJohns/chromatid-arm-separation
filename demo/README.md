@@ -3,7 +3,7 @@
 A worked example for the Chromatid Arm Separation macro.
 
 ## Files
-- `IJ_exp28_CTCFYxF_Rep2_A7-1_Example1_2.tif` — one chromosome spread
+- `example_chromosome_spread.tif` — one chromosome spread
   (632 × 632, 16-bit). The chromatids are displayed dark-on-light via an
   inverting LUT; the macro reads the raw pixel values, so this works exactly as
   a bright-on-dark image would.
