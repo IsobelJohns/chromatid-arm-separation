@@ -1,20 +1,19 @@
 // ============================================================================
 //  Chromatid Arm Separation — an ImageJ/Fiji macro
 // ============================================================================
-//  Measures the separation between sister-chromatid arms on 
+//  Measures the separation between sister-chromatid arms on
 //  chromosome spreads by fitting two fixed-width Gaussians to a perpendicular
 //  line-scan intensity profile and reporting the distance between their
 //  centres. Keyboard-driven, ROI-Manager based; exports per-arm and
 //  per-image (wide) CSV tables.
 //
-//  Version:  1.0.0
+//  Version:  1.1.0
 //  Author:   Isobel Johns   (ORCID: 0000-0002-3148-2183)
-//  Affil.:   Division of ... , Netherlands Cancer Institute (NKI-AVL),
-//            Amsterdam, The Netherlands
+//  Affil.:   Netherlands Cancer Institute (NKI-AVL), Amsterdam, The Netherlands
 //  Contact:  isobeljohns@gmail.com
 //  License:  MIT (see LICENSE)
-//  Repo:     https://github.com/<user>/chromatid-arm-separation
-//  Archive:  https://doi.org/10.5281/zenodo.<XXXXXXX>
+//  Repo:     https://github.com/IsobelJohns/chromatid-arm-separation
+//  Archive:  https://doi.org/10.5281/zenodo.23703875
 //
 //  If you use this macro, please cite the archived release (see CITATION.cff)
 //  and the associated publication (see README.md).

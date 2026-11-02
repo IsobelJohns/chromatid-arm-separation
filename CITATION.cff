@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite both the software (this archived release) and the associated publication listed under 'references'."
+message: "If you use this software, please cite it using the metadata below."
 title: "Chromatid Arm Separation: an ImageJ/Fiji macro for quantifying sister-chromatid arm separation on chromosome spreads"
 abstract: >-
   An ImageJ/Fiji macro that measures the separation between sister-chromatid
@@ -14,25 +14,15 @@ authors:
     email: isobeljohns@gmail.com
     affiliation: "Netherlands Cancer Institute (NKI-AVL), Amsterdam, The Netherlands"
     orcid: "https://orcid.org/0000-0002-3148-2183"
-version: "1.0.0"
-date-released: "2026-10-27"
+version: "1.1.0"
+date-released: "2026-11-02"
 license: MIT
-repository-code: "https://github.com/<user>/chromatid-arm-separation"
-doi: "10.5281/zenodo.<CONCEPT_DOI>"
+repository-code: "https://github.com/IsobelJohns/chromatid-arm-separation"
+doi: "10.5281/zenodo.23703875"
 keywords:
   - ImageJ
   - Fiji
   - chromosome spread
   - sister chromatid cohesion
-  - metaphase
   - image analysis
   - Gaussian fitting
-# Replace the reference below with the published paper once it has a DOI.
-references:
-  - type: article
-    title: "<Manuscript title>"
-    authors:
-      - given-names: Isobel
-        family-names: Johns
-    year: 2026
-    doi: "<10.xxxx/xxxxxx>"

@@ -1,14 +1,16 @@
 # Method
 
-A concise description of what the macro computes, suitable as a basis for the
-manuscript Methods. Prose is deliberately implementation-independent; see the
+A concise description of what the macro computes, suitable as a basis for a
+Methods section. Prose is deliberately implementation-independent; see the
 macro source for exact parameter values.
 
 ## Measurement
 
-The operator draws a straight line across a chromosome arm, perpendicular to
-its long axis and extending just into background on both sides, and the macro
-reads the intensity profile along it (`getProfile`). The profile is lightly
+The operator draws a straight line across **both sister chromatids** at one
+chromosome arm, perpendicular to the chromosome's long axis and extending just
+into background on both sides, and the macro reads the intensity profile along
+it (`getProfile`). Crossing both chromatids is what produces the two intensity
+peaks (one per chromatid) that the model fits. The profile is lightly
 smoothed (moving average, radius 2) only for peak and window detection; all
 reported quantities are computed from the raw profile.
 
@@ -22,6 +24,8 @@ close to true background so that a deep valley between two widely separated
 sisters is not mistaken for the end of the signal.
 
 ## Two-Gaussian model with fixed width
+
+![Two-Gaussian fit of a sister-chromatid intensity profile](two_gaussian_fit.png)
 
 Each sister chromatid is modelled as a Gaussian. The intensity profile is fit
 as the sum of two Gaussians of equal, fixed width on a flat background:
