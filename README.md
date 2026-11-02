@@ -53,7 +53,7 @@ current Fiji session.
 1. Open Fiji.
 2. `Plugins ▸ Macros ▸ Install…`
 3. Select `ChromatidArmSeparation.ijm`.
-4. The shortcuts (`t`, `s`, `e`, `d`, `r`, `u`, `b`; plus Fiji's built-in t) are now active. An
+4. The shortcuts (`s`, `e`, `d`, `r`, `u`, `b`; plus Fiji's built-in `t`) are now active. An
    image window must be the focused window for them to fire.
 
 To load it automatically on every start, paste the macro contents into
